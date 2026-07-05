@@ -996,9 +996,3 @@ def main():
     elif selected_page == "데이터 내보내기":
         show_exports(inventory, usage_log)
 
-
-if __name__ == "__main__":
-    main()
- 사용할 비밀번호로 바꾸세요.
-
-APP_PASSWORD = "change-this-password"
